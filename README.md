@@ -28,3 +28,26 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (includes npm)
 - A Firebase account
 
+## Screenshots
+
+### Home Page
+![Home Page](https://github.com/Utkarshsahhu/temp/raw/main/Screenshot%20(1556).png)
+
+### Sign Up Page
+![Sign Up Page](https://github.com/Utkarshsahhu/temp/raw/main/Screenshot%20(1558).png)
+
+### Sign In Page
+![Sign In Page](https://github.com/Utkarshsahhu/temp/raw/main/Screenshot%20(1559).png)
+
+### First Page After Login
+![First Page After Login](https://github.com/Utkarshsahhu/temp/raw/main/Screenshot%20(1560).png)
+
+### Employee Time Check-In/Out Page
+![Employee Time Page](https://github.com/Utkarshsahhu/temp/raw/main/Screenshot%20(1561).png)
+
+### Performance Report
+![Performance Report](https://github.com/Utkarshsahhu/temp/raw/main/Screenshot%20(1562).png)
+
+### Manager Page
+![Manager Page](https://github.com/Utkarshsahhu/temp/raw/main/Screenshot%20(1563).png)
+
