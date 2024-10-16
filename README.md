@@ -28,6 +28,10 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (includes npm)
 - A Firebase account
 
+## Live Demo
+
+You can try the live version of the application [here](https://vocal-figolla-76a84a.netlify.app/).
+
 ## Screenshots
 
 ### Home Page
@@ -50,4 +54,3 @@ Make sure you have the following installed:
 
 ### Manager Page
 ![Manager Page](https://github.com/Utkarshsahhu/temp/raw/main/Screenshot%20(1563).png)
-
